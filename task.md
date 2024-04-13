@@ -8,3 +8,6 @@
 + [text to see]https://raw.github.com/Alexwcjung/Corpus2024/main/reading.md
 
 4. **Generate a Word Cloud:** [Wordcloud] (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
+5. 
+
+[Word Frequency list](https://raw....)

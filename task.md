@@ -7,4 +7,4 @@
 + [text to display] (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 + [text to see]https://raw.github.com/Alexwcjung/Corpus2024/main/reading.md
 
-4. **Generate a Word Cloud:** https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png
+4. **Generate a Word Cloud:** [Wordcloud] (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)

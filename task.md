@@ -1,11 +1,5 @@
-https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md
-# 🌀 Assignment 1: Reading Lesson (Due by Apr. 17)
 
-## Objective
-+ Create a Markdown (MD) file for a reading lesson using a selected text.
-+ Include a word cloud of the text, a word frequency list, and instructions on how to use them in your lesson.
-+ The lesson should last 7 to 10 minutes with brief inclass activities.
-+ For the presentation, each student will have 15 minutes including Q&As.
+# 🌀 Assignment 1: Reading Lesson (Due by Apr. 17)
 
 ## Instructions
 
@@ -15,6 +9,9 @@ https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md
 
 3. **Insert the Text:** Copy and paste the selected text into your MD file, formatting it as needed. Or you can upload the text file (.txt) to your repository and use hyperlink on the content.
 ```
+
+[text to display] (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
+https://raw.github.com/Alexwcjung/Corpus2024/main/reading.md
 Format
 [text to display](weblink)
 

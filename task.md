@@ -7,5 +7,4 @@
 + [text to display] (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 + [text to see]https://raw.github.com/Alexwcjung/Corpus2024/main/reading.md
 
-4. **Generate a Word Cloud:** Use a word cloud generator (e.g., WordClouds.com) to create a word cloud based on the text. Insert the generated image into your MD file.
-   https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png
+4. **Generate a Word Cloud:** https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png

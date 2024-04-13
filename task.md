@@ -7,11 +7,14 @@
 
 2. **Create the Markdown File:** Start a new MD file using any text editor (e.g., Notepad, Github, or plain text file editor). 
 
-3. **Insert the Text:** Copy and paste the selected text into your MD file, formatting it as needed. Or you can upload the text file (.txt) to your repository and use hyperlink on the content.
-```
 
 + [text to display] (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 + https://raw.github.com/Alexwcjung/Corpus2024/main/reading.md
++ 
+3. **Insert the Text:** Copy and paste the selected text into your MD file, formatting it as needed. Or you can upload the text file (.txt) to your repository and use hyperlink on the content.
+```
+
+
 Format
 [text to display](weblink)
 

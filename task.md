@@ -3,48 +3,8 @@
 
 ## Instructions
 
-
+3. **Insert the Text:** Copy and paste the selected text into your MD file, formatting it as needed. Or you can upload the text file (.txt) to your repository and use hyperlink on the content.
 + [text to display] (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 + [text to see]https://raw.github.com/Alexwcjung/Corpus2024/main/reading.md
 
-3. **Insert the Text:** Copy and paste the selected text into your MD file, formatting it as needed. Or you can upload the text file (.txt) to your repository and use hyperlink on the content.
-```
-
-
-Format
-[text to display](weblink)
-
-For example,
-[text to see](https://raw.githubusercontent.com/MK316/Spring2024/main/Corpus/data/story01.txt)
-```
-
 4. **Generate a Word Cloud:** Use a word cloud generator (e.g., WordClouds.com) to create a word cloud based on the text. Insert the generated image into your MD file.
-
-```
-# Note: copy the image file link from the web address line, and replace 'blob' with 'raw'
-![Alt Text](https://github.com/username/repo/raw/master/path/to/image.jpg)
-```
-
-5. **Create a Word Frequency List:** Manually list the most frequently occurring words in the text, including word and frequency count.
-
-+ Save the csv file on your github account
-+ Use a hyper link as follows:
-
-```
-#Note that the csv file address should be raw form: on Github there is a raw menu to get the address.
-
-[Word Frequency list](https://raw....)
-```
-6. **Write Instructions:** In your MD file, provide instructions for using the word cloud and word frequency list in the lesson. Explain their purpose and suggest interactive activities or discussions.
-
-7. **Lesson Plan (as a section in the MD file):** Develop a brief lesson plan that can show how to use the image and the list:
-   - Introduction to the text and context.
-   - Engaging activities or questions related to the text.
-   - How to incorporate the word cloud and word frequency list.
-   - Estimated lesson duration (5-10 minutes).
-
-8. **Proofread and Format:** Review your MD file for errors in formatting, spelling, and grammar. Ensure it's well-organized.
-
-9. **Submission:** Submit your completed MD file link as your assignment on our [Padlet](https://padlet.com/mirankim316/S24Corpus) page
-
-**Note:** Provide references of external sources and tools used in your assignment at the end of the page.

@@ -10,4 +10,4 @@
 4. **Generate a Word Cloud:** [Wordcloud] (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
 5. 
 
-[Word Frequency list](https://raw....)
+[Word Frequency list] (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)

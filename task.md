@@ -5,8 +5,8 @@
 
    **[text to display]** (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 
-3. **Topic Inference"
- [Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
+3. **Topic Inference"**
+ **[Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
 + What do you think is the topic?
 + What do you think the story will mainly talk about?
 + Share your ideas in pairs

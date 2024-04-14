@@ -14,7 +14,7 @@
 
 4. **Elaborate on the topic**
 + **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
-+ List the vocabulary which Word frequency list shows but Word cloud doesn't.
++ List vocabulary that appears in a word frequency list but is not represented in a word cloud
 + Specify what the article is about more in detail 
 
 Lesson Plan (as a section in the MD file): Develop a brief lesson plan that can show how to use the image and the list:

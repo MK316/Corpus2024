@@ -1,7 +1,7 @@
 
 # 🌀 Assignment 1: Reading Lesson (Due by Apr. 17)
 
-## Objective 
+## 🍇🌱Objective 
 + Students will be able to infer the topic using a Word Cloud. Later, they will elaborate on their ideas using a word frequency list
 
 ## Introcution to content and context 

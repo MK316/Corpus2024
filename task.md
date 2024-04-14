@@ -19,7 +19,7 @@
  4) Share your ideas in pairs
 ```
 
-## 🌱 Word Frequency Storytelling
+## 🌱 Storytelling
    **🍇 [Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
 ``` 
  1) Create a cohesive story using as many of the words as possible. (This activity promotes creativity and reinforces vocabulary acquisition)

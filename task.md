@@ -19,16 +19,9 @@
  4) Share your ideas in pairs
 ```
 
-## 🌱 Elaborate on the topic inference
+## 🌱 Word Frequency Storytelling
    **🍇 [Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
 ``` 
- 1) List vocabulary that appears in a word frequency list but is not represented in a word cloud
- 2) Specify what the article is about more in detail 
+ 1) Create a cohesive story using as many of the words as possible. (This activity promotes creativity and reinforces vocabulary acquisition)
+ 2) Share your writing in pairs
 ``` 
-Lesson Plan (as a section in the MD file): Develop a brief lesson plan that can show how to use the image and the list:
-
-Introduction to the text and context.
-Engaging activities or questions related to the text.
-How to incorporate the word cloud and word frequency list.
-Estimated lesson duration (5-10 minutes).
-

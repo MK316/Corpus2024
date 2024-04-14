@@ -1,17 +1,17 @@
 
 # 🌀 Assignment 1: Reading Lesson (Due by Apr. 17)
 
-## 🍇Objective 
+## 🍇 Objective 
 + Students will be able to infer the topic using a Word Cloud. Later, they will elaborate on their ideas using a word frequency list
 
-## Introcution to content and context 
+## 🍇 Introcution to content and context 
 + McDonald's, the famous fast-food giant, has thousands of restaurants worldwide, serving millions of customers daily. Started in 1940 by the McDonald brothers, it quickly became a pioneer in fast food, simplifying menus and speeding up service. With Ray Kroc's acquisition in 1954, McDonald's grew into a massive global enterprise. Now, it's a symbol of quick and familiar dining, with its roots honored at the McDonald's museum in California.
 
    **🌱 [text to display]** (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 
-## Topic Inference
+## 🍇 Topic Inference
 
-**[Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
+**🌱 [Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
 ``` 
  1) What do you think is the topic?
  2) What do you think the story will mainly talk about?
@@ -19,8 +19,8 @@
  4) Share your ideas in pairs
 ```
 
-4. **Elaborate on the topic**
-+ **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
+**🍇 Elaborate on the topic**
++ **🌱 [Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
 + List vocabulary that appears in a word frequency list but is not represented in a word cloud
 + Specify what the article is about more in detail 
 

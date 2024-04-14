@@ -7,11 +7,11 @@
 
 3. **Topic Inference"**
 **[Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
-```
-What do you think is the topic?
-What do you think the story will mainly talk about?
-Think about how the story will play out and write in 3 lines
-Share your ideas in pairs
+``` 
+ 1) What do you think is the topic?
+ 2) What do you think the story will mainly talk about?
+ 3) Think about how the story will play out and write in 3 lines
+ 4) Share your ideas in pairs
 ```
 
 4. **Elaborate on the topic**

@@ -9,7 +9,8 @@
 + **[Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
 + What do you think is the topic?
 + What do you think the story will mainly talk about?
-+ Write the story in 3 lines and share in pairs
++ Think about how the story will play out and write in 3 lines
++ Share your ideas in pairs
 
 4. **Elaborate on the topic**
 + **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)

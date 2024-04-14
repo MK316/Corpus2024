@@ -9,9 +9,10 @@
 + What do you think is the topic?
 + What do you think the story will mainly talk about?
 + Share your ideas in pairs
-+ Let's play 4x4 bingo game to memorize vocabulary
 
-+ **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
+4. **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
++ List the vocabulary which Word frequency list shows but Word cloud doesn't.
++ Specify what the article is about more in detail 
 
 Lesson Plan (as a section in the MD file): Develop a brief lesson plan that can show how to use the image and the list:
 

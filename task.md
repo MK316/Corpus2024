@@ -19,7 +19,7 @@
  4) Share your ideas in pairs
 ```
 
-**🍇 Elaborate on the topic**
+## 🍇 Elaborate on the topic inference
    **🌱 [Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
 ``` 
  1) List vocabulary that appears in a word frequency list but is not represented in a word cloud

@@ -1,7 +1,8 @@
 
 # 🌀 Assignment 1: Reading Lesson (Due by Apr. 17)
-1. Objective : Students will be able to infer the topic using Word Cloud
+1. Objective : Students will be able to infer the topic using Word Cloud. Students later elaborate their ideas using word frequency list
 2.  
+
 + **[text to display]** (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 + **[text to see]** https://raw.github.com/Alexwcjung/Corpus2024/main/reading.md
 

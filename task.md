@@ -9,6 +9,7 @@
 + What do you think is the topic?
 + What do you think the story will mainly talk about?
 + Share your ideas in pairs
++ Let's play 4x4 bingo game to memorize vocabulary
 
 + **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
 

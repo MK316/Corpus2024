@@ -5,13 +5,10 @@
 + **[text to see]** https://raw.github.com/Alexwcjung/Corpus2024/main/reading.md
 
 + Introduction to the text and context : 
-3. **[Word Cloud]**(https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
-
-Let's guess story based on the word Cloud
-Who is the main character?
-Where this story begins?
-what happens?
-What words comes to your mind as a key word?
+3. **[Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
++ What do you think is the topic?
++ What do you think the story will mainly talk about?
++ Share your ideas in pairs
 
 + **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
 

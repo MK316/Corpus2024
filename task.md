@@ -9,7 +9,7 @@
 
    **[text to display]** (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 
-3. **Topic Inference**
+## Topic Inference
 
 **[Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
 ``` 

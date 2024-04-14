@@ -1,7 +1,8 @@
 
 # 🌀 Assignment 1: Reading Lesson (Due by Apr. 17)
 
-## Objective : Students will be able to infer the topic using a Word Cloud. Later, they will elaborate on their ideas using a word frequency list
+## Objective 
++ Students will be able to infer the topic using a Word Cloud. Later, they will elaborate on their ideas using a word frequency list
 
 ## Introcution to content and context : McDonald's, the famous fast-food giant, has thousands of restaurants worldwide, serving millions of customers daily. Started in 1940 by the McDonald brothers, it quickly became a pioneer in fast food, simplifying menus and speeding up service. With Ray Kroc's acquisition in 1954, McDonald's grew into a massive global enterprise. Now, it's a symbol of quick and familiar dining, with its roots honored at the McDonald's museum in California.
 

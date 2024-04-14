@@ -5,12 +5,14 @@
 
 + **[text to display]** (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 
-3. **[Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
+3. **Topic Inference"
+ [Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
 + What do you think is the topic?
 + What do you think the story will mainly talk about?
 + Share your ideas in pairs
 
-4. **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
+4. **Elaborate on the topic**
+   **[Word Frequency list]** (https://github.com/Alexwcjung/Corpus2024/raw/main/Corpus/word_frequency%20(1).csv)
 + List the vocabulary which Word frequency list shows but Word cloud doesn't.
 + Specify what the article is about more in detail 
 

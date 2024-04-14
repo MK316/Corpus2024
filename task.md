@@ -3,7 +3,7 @@
 1. Objective : Students will be able to infer the topic using a Word Cloud. Later, they will elaborate on their ideas using a word frequency list
 2. McDonald's, the famous fast-food giant, has thousands of restaurants worldwide, serving millions of customers daily. Started in 1940 by the McDonald brothers, it quickly became a pioneer in fast food, simplifying menus and speeding up service. With Ray Kroc's acquisition in 1954, McDonald's grew into a massive global enterprise. Now, it's a symbol of quick and familiar dining, with its roots honored at the McDonald's museum in California.
 
-+ **[text to display]** (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
+   **[text to display]** (https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 
 3. **Topic Inference"
  [Word Cloud]** (https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)

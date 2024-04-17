@@ -7,7 +7,7 @@
 ## 🌱 Introduction to content and context 
 + McDonald's, the famous fast-food giant, has thousands of restaurants worldwide, serving millions of customers daily. Started in 1940 by the McDonald brothers, it quickly became a pioneer in fast food, simplifying menus and speeding up service. With Ray Kroc's acquisition in 1954, McDonald's grew into a massive global enterprise. Now, it's a symbol of quick and familiar dining, with its roots honored at the McDonald's museum in California.
 
-   **🍇 [text to display]**(https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
+   🍇 [text to display](https://github.com/Alexwcjung/Corpus2024/raw/main/reading.md)
 
 ## 🌱 Topic Inference
 

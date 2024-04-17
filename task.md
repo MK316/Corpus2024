@@ -11,7 +11,7 @@
 
 ## 🌱 Topic Inference
 
-   🍇 [Word Cloud](https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
+   🍇 ![Word Cloud](https://github.com/Alexwcjung/Corpus2024/raw/main/WordCloud.png)
 ``` 
  1) What do you think is the topic?
  2) What do you think the story will mainly talk about?
